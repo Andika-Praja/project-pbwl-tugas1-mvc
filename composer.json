@@ -1,0 +1,19 @@
+{
+    "name": "Andika-Praja/pbwl-tugas1",
+    "description": "Tugas 1 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andika-Praja",
+            "email": "andikapraja412@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
